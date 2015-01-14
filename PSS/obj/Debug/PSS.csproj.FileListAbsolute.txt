@@ -1,1 +1,2 @@
 c:\users\administrator\documents\visual studio 2013\Projects\PSS\PSS\bin\Debug\PSS.exe.config
+D:\project\PSS\PSS\bin\Debug\PSS.exe.config
